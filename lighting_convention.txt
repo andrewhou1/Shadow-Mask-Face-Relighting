@@ -1,0 +1,11 @@
+The coordinate conventions for our SH lighting (positive x, y, and z) are the same as Deep Portrait Relighting (DPR), and are shown below:
+
+        ^ z  > y
+        |  /
+        | /
+        |/            
+--------------------------> x
+        |
+        |
+
+The order of the SH terms is 1, Y, Z, X, YX, YZ, 3Z^2-1, XZ, X^2-Y^2
