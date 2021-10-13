@@ -28,3 +28,5 @@ If you utilize our code in your work, please cite our CVPR 2021 paper.
     
 ## Contact 
 If there are any questions, please feel free to post here or contact the authors at {houandr1, zhangze6, ytong, liuxm}@msu.edu, {msarkis, nbi}@qti.qualcomm.com
+
+Thanks!
