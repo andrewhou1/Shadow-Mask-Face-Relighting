@@ -1,4 +1,4 @@
-# Towards High Fidelity Face-Relighting with Realistic Shadows
+# Towards High Fidelity Face Relighting with Realistic Shadows
 Andrew Hou, Ze Zhang, Michel Sarkis, Ning Bi, Yiying Tong, Xiaoming Liu. In CVPR, 2021. 
 
 ![alt text](https://github.com/andrewhou1/Shadow-Mask-Face-Relighting/blob/main/sample_outputs/00508_lower_right.png)
@@ -27,4 +27,4 @@ If you utilize our code in your work, please cite our CVPR 2021 paper.
 ```
     
 ## Contact 
-If there are any questions, please feel free to post here or contact the authors at {houandr1, zhangze6, ytong, liuxm}@msu.edu, {msarkis, nbi}@qti.qualcomm.com
+If there are any questions, please feel free to post here or contact the first author at **houandr1@msu.edu**
