@@ -4,7 +4,7 @@ Andrew Hou, Ze Zhang, Michel Sarkis, Ning Bi, Yiying Tong, Xiaoming Liu. In CVPR
 ![alt text](https://github.com/andrewhou1/Shadow-Mask-Face-Relighting/blob/main/sample_outputs/00508_lower_right.png)
 ![alt text](https://github.com/andrewhou1/Shadow-Mask-Face-Relighting/blob/main/sample_outputs/00841_lower_left.png)
 
-The code for this project was developed using Python 3 and Tensorflow 1.9.0. 
+The code for this project was developed using Python 3.6.8 and Tensorflow 1.9.0. 
 
 ## Trained model
 To run our trained model on an input image and a target lighting: 
