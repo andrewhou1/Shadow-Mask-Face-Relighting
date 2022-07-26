@@ -1,2 +1,0 @@
-ShowEnvironmentMap.m: we generate environment map given lighting direction.
-EstimateLightingDir.m: contains code for transforming environment map to SH and transforming SH to environment map/lighting direction.
