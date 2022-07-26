@@ -1,0 +1,14 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  2.1.10.1214
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Material
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+illum 2
+Ns 24.2515
+map_Kd BLUEGILL.bmp
